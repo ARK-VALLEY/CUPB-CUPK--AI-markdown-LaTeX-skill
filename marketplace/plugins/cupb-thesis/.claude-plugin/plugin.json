@@ -1,0 +1,8 @@
+{
+  "name": "cupb-thesis",
+  "version": "1.0.0",
+  "description": "中国石油大学（北京）本科生毕业设计(论文) LaTeX 排版工具。Markdown → .tex → PDF 一键转换，严格遵循学校写作指南格式要求。",
+  "author": {
+    "name": "CUPB"
+  }
+}

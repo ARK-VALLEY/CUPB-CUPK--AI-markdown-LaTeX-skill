@@ -1,0 +1,41 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.xdv
+*.nav
+*.snm
+*.vrb
+*.thm
+*.lof
+*.lot
+*.loa
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings (personal, not for distribution)
+.claude/settings.local.json
+.claude/settings.json
